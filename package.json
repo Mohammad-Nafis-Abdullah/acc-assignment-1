@@ -1,0 +1,13 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  }
+}
